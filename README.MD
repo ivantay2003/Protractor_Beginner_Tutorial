@@ -9,7 +9,7 @@ To add this as remote
 <br>
 git remote add origin git@github.com:ivantay2003/Protractor_Beginner_Tutorial.git
 <br><br><br>
-Please refer to Youtube series for tutorial
+Please refer to Youtube series (4 parts) for tutorial
 <br><br>
 https://youtu.be/F4bq7ydyBVQ
 
