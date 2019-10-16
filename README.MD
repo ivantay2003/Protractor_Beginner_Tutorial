@@ -7,7 +7,8 @@ git clone https://github.com/ivantay2003/Protractor_Beginner_Tutorial.git
 <br><br><br>
 To add this as remote 
 <br>
-git remote add origin git@github.com:ivantay2003/Protractor_Beginner_Tutorial.git
+git remote add origin git@github.com:<username>/Protractor_Beginner_Tutorial.git
+
 <br><br><br>
 Please refer to Youtube series (4 parts) for tutorial
 <br><br>
