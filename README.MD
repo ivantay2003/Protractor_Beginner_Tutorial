@@ -15,6 +15,6 @@ Please refer to Youtube series (4 parts) for tutorial
 https://youtu.be/F4bq7ydyBVQ
 
 <br><br><br><br>
-I can be contacted by [Linkedin](http://www.linkedln.ivantay.org) or Skype : *tay.phones*
+I can be contacted by [Linkedin](https://www.linkedin.com/in/ivantay/) or Skype : *tay.phones*
 
 
